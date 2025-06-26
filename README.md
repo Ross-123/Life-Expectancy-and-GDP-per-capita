@@ -3,4 +3,6 @@
 Animated visualization combining both scatter points (with size proportional to population) and cumulative line traces for India, Sri Lanka, and Pakistan, we use Plotly's graph objects to build custom frames.
 
 ![image](https://github.com/user-attachments/assets/69c3fdb2-56ff-424c-bc9c-3c946627f221)
-![image](https://github.com/user-attachments/assets/69c3fdb2-56ff-424c-bc9c-3c946627f221)
+
+![image](https://github.com/user-attachments/assets/44419463-31f3-4028-9193-cb138d66d37b)
+
